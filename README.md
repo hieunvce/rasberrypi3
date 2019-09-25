@@ -7,3 +7,6 @@ Kho lưu trữ tất cả những note, script cũng như image mình build cho 
   https://drive.google.com/drive/folders/1ub1lch71TXrVIljTAZ6zp5GGsqrpOWn-?usp=sharing  
   - Tutorial (many thankss Adrian): https://www.pyimagesearch.com/2017/10/09/optimizing-opencv-on-the-raspberry-pi/  
   - Prebuilt binary with Tensorflow Lite: https://github.com/PINTO0309/Tensorflow-bin  
+
+## Binary:
+- Pre-built protoc file cho Raspberry Pi 3
